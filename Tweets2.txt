@@ -1,0 +1,75 @@
+Investing *can* get you there, via passive income in the form of total return on financial assets. Another way is by owning a business – by owning a share of the profits from a business which you have successfully extradited yourself from.
+Correlation analysis fails when the relationship between variables changes over time. It won’t really detect when they move independently to each other, then suddenly become correlated for a period of time, then uncorrelated again. You know, sort of how assets seem to behave.
+Models struggle because they are backwards-looking. By design. Their output is essentially the most-likely outcome given the inputs, based on historical data.
+Want to get rich? Get rich friends. Why? Because you can get ideas, options, and inspiration from these people. They may also help you or include you in their next money-making scheme.
+There’s a reason your grandad still has a deeply-ingrained scarcity mindset: he grew up amidst rationing and shortages, a time when a stick of butter was a luxury. Or why your mum said that they had to split a mars bar between a family of 8 and had to go to their neighbours’ house to crowd round a small TV to watch Top of the Pops.
+Earnings peak in your 40s, when you’ve amassed 20 years+ of experience and knowledge and still have the energy and drive to be “successful”. Older people have one eye on retirement, their skills and knowledge atrophy, and they’re expensive to employ.
+Life is about both figuring out what you really want and going out and getting it. Building a life centred around only one thing is great for getting that thing. But before going all-in you should be sure that that’s what you really want.
+Think about the average retail investor – robo-advisers probably make better decisions than them already. And they don’t even leverage AI.
+Try this: look at rolling monthly price correlation for 2 random stocks. See what happens.
+The nearer you are to life-or-death scenarios, the more careful you have to be about human skill atrophy. I still want pilots to be fully trained, even though autopilot does all the work.
+If you think your friends are all idiots, you are in all likelihood an idiot.
+Reminder: correlation is completely meaningless without statistical significance. In small samples, you can easily generate a high correlation purely by chance. So when you have enough variables over a short-enough time period, you’re going to get some high correlations between some of those variables.
+You can be considered broke on money twitter whilst being incredibly well-off and #blessed by most peoples’ standards.
+I certainly wouldn’t want my InvestingAI making all my investing decisions. I certainly wouldn’t want 0 knowledge of what it’s doing.
+Most people would struggle to live comfortably on £100 a month. But it's also a psychological problem. You obtain an amount of money you would *feel* comfortable having, certainly not the amount you needs, and probably not the amount you would actually be comfortable having, either.
+Most people have no clue that Google Maps is using AI and what it’s doing and why. But no one cares. Because the stakes are low.
+What’s useful to think about is maximum usable wealth. At what point does more wealth make no real difference to your life, aside from flexing/boosting your ego?
+According to correlation logic, if one constructs a portfolio using assets that are uncorrelated or, better yet, inversely correlated, one can expect a stable return each month because in some months asset X will fly and in others it will be asset Y leading the charge.
+AI can’t tell if you’re nervous about your Mum’s health so want to save some money for private health care rather than invest it. Or about a long-term trend that you see emerging. Or when an investment seems too good to be true.
+Online spaces warp your sense of reality, convincing you that a million really isn’t a lot of money if you really think about it. Or you’ve flopped if you’re not earning six figures by age 25.
+Randomly generate a list of 10 numbers between, say -0.2 and 0.2 (kind of like what we would expect annual returns to be). Then generate another list. Now calculate the correlation between them.
+Median income in 1960 was at around the same level as mean income (£200). But as we move to the present the two begin to subtly diverge such that today, mean income is over 20% higher than median.
+Is an AI going to make a better decision than big John who has just had a few pints and is in a good mood and has a “feeling” oil is going to go down so places an order for one 3x leveraged WTI Crude Oil short please? Yeah.
+We can’t help copying those around us. But we also find ourselves gravitating towards people who are of a similar disposition and have similar interests.
+Most of us are bad at knowing what we really want. Sure, sometimes it’s obvious. If you’re ill, you just want to get better. If you’re living in poverty, you just want money. If you’re a 38-year-old virgin...
+The bots will do the heavy lifting. The research. They will run the numbers and give suggestions. But humans will still have to review these suggestions and make a judgement. We’ll still have the responsibility to get that right.
+We *really* don’t like to be the odd one out in social situations. If everyone you know is talking about and doing rich people shit, you’re going to want to get rich too to join in with the gang.
+If A then B = if not A then not B. This is a logical error. Correlation is neither necessary nor sufficient in variables that are causally related.
+Sleeping at night is better than an extra 2% return ffs
+Investment rate of return, savings rate, and income are all important. But it's a lot easier to change the latter two.
+There is no such thing as objective data.
+Bottom-up: don't worry too much about goals, focus on the big picture, high-impact decisions, and building good habits.
+Investing is funny. 40-hours extra per week spent working trying to improve your returns can actually make them worse.
+Cash is very useful. High optionality and robustness. And no return is better than negative return.
+I would bet ~1% of the UK pop <50 knows all their pensions and what they are invested in.
+On paper, investing is amazing. You ‘spend’ money today that turns into more money in the future. The devil is in the detail.
+In complex domains, it’s very hard to tell who’s actually good and who’s a bullshitter.
+Advantage of spending: I *know* what I want to spend money on today. Fuck knows what I'll want to buy 10 years from now.
+Debt in a currency that you don’t control...
+I'm a paranoid optimist. You have to be paranoid when it comes to your finances. But also believe (some) things are generally going to get better.
+Yes, investing a substantial amount is difficult (unless your life is incredibly boring or you're very 'particular').
+I'm all for diversification. The question is how...you're not going to buy...everything, are you?
+That £20 note in your wallet is worth a lot less to future you because 1) it can buy less due to inflation 2) the opp cost of foregone returns and 3) future you is richer.
+Like with many areas of life, the basic investing problems have been solved. The hard problems have not. Maybe they never will.
+Yeah, if you try and teach PF&I in schools, teenagers and kids won’t give a shit. It’s not that interesting, relative to how the universe was created or Shakespeare or mathematics, anyway.
+What happens when an industry perpetually declines? What happens when the population reduces? Black swan event?
+All I want for Christmas is IID observations.
+You can always make more money, you can’t make more time.
+How many people have run the numbers and done the calculations before buying a house?
+Teaching PF&I: the simple, applicable stuff is boring but the fun bits won’t be useful and have the potential to be harmful.
+Too optimistic = blow up. Too pessimistic = value erosion + opportunity cost.
+Try talking to a 13-year-old about pensions. Try and explain to your teenage daughter why ISAs are important. Jesus, even trying to explain student loans to students is hard.
+Don't let your friends subconsciously bait you into a silly purchase.
+If you can't buy it 5 times, you can't afford it.
+Most people really should just invest passively, regularly, and unconsciously. Only those freaks that actually enjoy it should do more.
+Terminal value is the only thing that matters. Sort of.
+Most of the good-tasking stuff is bad for you. Most of the funnest things to spend money on, you don’t actually need.
+Thought experiment: how different would your portfolio look if you had no access to historical data?
+Professionals have overwhelming analytical, technological, and informational advantages. Doesn't mean they'll all necessarily out-perform, just stating facts.
+Extended timelines and single-point estimates hide information but reduce the noise.
+"Just give me the fund P/L!"
+Please don't be one of those optimisation nerds. These guys would consider selling their grandma for an extra 10% in their savings pot.
+Goals are mostly arbitrary. But, to be fair, there might be value is achieving an arbitrary goal for some people.
+Paranoid about risks that can ruin me. Dismissive of those that can't.
+Investing will always be uncertain.
+Increasing income is all you need.
+No asset, fund, class is the "best". Different investor requirements.
+Buying a house is weird. It's a non-financially-driven decision that has massive financial impacts.
+
+
+
+
+
+
+
