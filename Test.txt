@@ -1,3 +1,0 @@
-CRON_test
-CRON_test
-CRON_test
