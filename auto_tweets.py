@@ -25,24 +25,24 @@ def too_long_bool(tweet):
 
 def save_too_long(tweet):
     # adding tweet to txt
-    long_tweets = open('Long_Tweets.txt', 'a')
+    long_tweets = open('Tweets/Long_Tweets.txt', 'a')
     long_tweets.writelines(tweet)
     long_tweets.close()
 
 # Check if already sent
 def sent_tweet_bool(tweet):
 
-    archive = open('Sent_Tweets.txt', 'r')
+    archive = open('Tweets/Sent_Tweets.txt', 'r')
     sent_bool = tweet in archive.readlines()
     archive.close()
     return sent_bool
 
 def remove_tweet(tweet):
     # Deleting from all tweets
-    with open("Tweets.txt", "r") as f:
+    with open("Tweets/Tweets.txt", "r") as f:
         lines = f.readlines()
         f.close()
-    with open("Tweets.txt", "w") as f:
+    with open("Tweets/Tweets.txt", "w") as f:
         for line in lines:
             if line != tweet:
                 f.write(line)
@@ -50,7 +50,7 @@ def remove_tweet(tweet):
 # Saving tweet in txt - these start at 0
 def save_sent_tweet(tweet):
 
-    archive = open('Sent_Tweets.txt', 'a')
+    archive = open('Tweets/Sent_Tweets.txt', 'a')
     archive.writelines(tweet)
     archive.close()
 
@@ -69,7 +69,7 @@ bad_tweet = True
 
 while bad_tweet:
     # reading txt file with tweets
-    filename = open('Tweets.txt', 'r')
+    filename = open('Tweets/Tweets.txt', 'r')
     all_tweets = filename.readlines()
     filename.close()
     tweet = all_tweets[0]
@@ -87,3 +87,4 @@ while bad_tweet:
         save_sent_tweet(tweet)
         remove_tweet(tweet)
         bad_tweet = False
+        
