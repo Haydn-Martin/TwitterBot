@@ -1,10 +1,10 @@
 # Reading lines from txt file
-filename = open('Tweets.txt', 'r')
+filename = open('Tweets/Tweets.txt', 'r')
 all_tweets = filename.readlines()
 filename.close()
 
 # Reading lines from sent tweets file
-filename = open('Sent_Tweets.txt', 'r')
+filename = open('Tweets/Sent_Tweets.txt', 'r')
 sent_tweets = filename.readlines()
 filename.close()
 
@@ -26,7 +26,7 @@ for tweet in all_tweets:
     if tweet not in sent_tweets_og:
 
         # Saving unsent tweets in txt
-        archive = open('Unsent_Tweets.txt', 'a')
+        archive = open('Tweets/Unsent_Tweets.txt', 'a')
         archive.writelines(tweet)
         archive.close()
 
