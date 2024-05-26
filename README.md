@@ -13,5 +13,5 @@ Note: functinality affected by Twitter API v1.1 deprecation
 
 ## Deleting Tweets
 
-- Follow the tutorial outlined here: [https://www.youtube.com/watch?v=jB1-z6LbX5w&t=248s&ab_channel=LucaHammer]
+- Follow the tutorial outlined [here](https://www.youtube.com/watch?v=jB1-z6LbX5w&t=248s&ab_channel=LucaHammer)
 - Note: you may have to launch chrome with the `--disable-web-security` argument to negate CORS issues
